@@ -1,0 +1,6 @@
+backend/__pycache__/
+backend/expenses.db
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+.env
